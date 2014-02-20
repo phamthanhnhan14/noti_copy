@@ -1,0 +1,5 @@
+      [paste.app_factory]
+      main = notification_demo:main
+      [console_scripts]
+      init_ntf_demo_db = notification_demo.scripts.initializedb:main
+      

@@ -1,0 +1,12 @@
+pyramid==1.5a3
+SQLAlchemy
+mysql-python
+transaction
+pyramid_tm
+pyramid_debugtoolbar
+zope.sqlalchemy
+waitress
+pyramid_vgid_oauth2
+pyramid_beaker
+pyramid_layout
+requests
